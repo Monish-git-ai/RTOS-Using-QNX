@@ -250,7 +250,7 @@ main, exiting
 ---
 
 # Output
-
+![Output](exp22.jpeg)
 ---
 
 # Result
