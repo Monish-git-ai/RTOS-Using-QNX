@@ -103,6 +103,7 @@ Interrupt received! , Count is 4
 ---
 
 # Output
+![Output](exp41.jpeg)
 ---
 
 # Result
