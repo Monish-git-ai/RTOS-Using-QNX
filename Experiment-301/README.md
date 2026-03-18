@@ -248,7 +248,10 @@ MsgSend return status: 0
 ---
 
 # Output
-
+## Server Side
+![Output](exp3s.jpeg)
+## Client Side
+![Output](exp3c.jpeg)
 ---
 
 # Result
